@@ -1,0 +1,15 @@
+D:\TFL\DotNet\Basics\basic2\bin\Debug\net9.0\basic2.exe
+D:\TFL\DotNet\Basics\basic2\bin\Debug\net9.0\basic2.deps.json
+D:\TFL\DotNet\Basics\basic2\bin\Debug\net9.0\basic2.runtimeconfig.json
+D:\TFL\DotNet\Basics\basic2\bin\Debug\net9.0\basic2.dll
+D:\TFL\DotNet\Basics\basic2\bin\Debug\net9.0\basic2.pdb
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.AssemblyInfoInputs.cache
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.AssemblyInfo.cs
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.csproj.CoreCompileInputs.cache
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.sourcelink.json
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.dll
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\refint\basic2.dll
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.pdb
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\basic2.genruntimeconfig.cache
+D:\TFL\DotNet\Basics\basic2\obj\Debug\net9.0\ref\basic2.dll
