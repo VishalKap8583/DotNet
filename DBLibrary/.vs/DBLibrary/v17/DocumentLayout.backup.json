@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFL\\DotNet files\\DBLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B6B018-666A-414C-8225-D853E9BEB79C}|DBLibrary\\DBLibrary.csproj|d:\\tfl\\dotnet files\\dblibrary\\dblibrary\\dblibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91B6B018-666A-414C-8225-D853E9BEB79C}|DBLibrary\\DBLibrary.csproj|solutionrelative:dblibrary\\dblibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B6B018-666A-414C-8225-D853E9BEB79C}|DBLibrary\\DBLibrary.csproj|d:\\tfl\\dotnet files\\dblibrary\\dblibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B6B018-666A-414C-8225-D853E9BEB79C}|DBLibrary\\DBLibrary.csproj|solutionrelative:dblibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBLibrary",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\DBLibrary\\DBLibrary\\DBLibrary.csproj",
+              "RelativeDocumentMoniker": "DBLibrary\\DBLibrary.csproj",
+              "ToolTip": "D:\\TFL\\DotNet files\\DBLibrary\\DBLibrary\\DBLibrary.csproj",
+              "RelativeToolTip": "DBLibrary\\DBLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T15:14:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\DBLibrary\\DBLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "DBLibrary\\Program.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\DBLibrary\\DBLibrary\\Program.cs",
+              "RelativeToolTip": "DBLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:14:20.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
