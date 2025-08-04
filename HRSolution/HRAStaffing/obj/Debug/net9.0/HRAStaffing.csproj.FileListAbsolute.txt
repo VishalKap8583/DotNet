@@ -1,0 +1,12 @@
+D:\TFL\DotNet files\HRSolution\HRAStaffing\bin\Debug\net9.0\HRAStaffing.deps.json
+D:\TFL\DotNet files\HRSolution\HRAStaffing\bin\Debug\net9.0\HRAStaffing.dll
+D:\TFL\DotNet files\HRSolution\HRAStaffing\bin\Debug\net9.0\HRAStaffing.pdb
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.csproj.AssemblyReference.cache
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.AssemblyInfoInputs.cache
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.AssemblyInfo.cs
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.csproj.CoreCompileInputs.cache
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.dll
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\refint\HRAStaffing.dll
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\HRAStaffing.pdb
+D:\TFL\DotNet files\HRSolution\HRAStaffing\obj\Debug\net9.0\ref\HRAStaffing.dll
