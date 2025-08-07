@@ -1,0 +1,12 @@
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\bin\Debug\net9.0\StudentAssessmentLibrary.deps.json
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\bin\Debug\net9.0\StudentAssessmentLibrary.dll
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\bin\Debug\net9.0\StudentAssessmentLibrary.pdb
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.csproj.AssemblyReference.cache
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.AssemblyInfoInputs.cache
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.AssemblyInfo.cs
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.csproj.CoreCompileInputs.cache
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.dll
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\refint\StudentAssessmentLibrary.dll
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\StudentAssessmentLibrary.pdb
+D:\TFL\DotNet files\StudentAssessment\StudentAssessmentLibrary\obj\Debug\net9.0\ref\StudentAssessmentLibrary.dll

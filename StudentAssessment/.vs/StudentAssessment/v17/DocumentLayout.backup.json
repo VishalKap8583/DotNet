@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFL\\DotNet files\\StudentAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C338D98D-C7D7-4E57-ADFB-311169699016}|StudentAssessmentAPI\\StudentAssessmentAPI.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C338D98D-C7D7-4E57-ADFB-311169699016}|StudentAssessmentAPI\\StudentAssessmentAPI.csproj|solutionrelative:studentassessmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentlibrary\\repositories\\implementation\\studentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|solutionrelative:studentassessmentlibrary\\repositories\\implementation\\studentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentlibrary\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|solutionrelative:studentassessmentlibrary\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentlibrary\\repositories\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|solutionrelative:studentassessmentlibrary\\repositories\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentlibrary\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|solutionrelative:studentassessmentlibrary\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|d:\\tfl\\dotnet files\\studentassessment\\studentassessmentlibrary\\services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B32141-5B2B-45BE-96F8-2FC10C6057BE}|StudentAssessmentLibrary\\StudentAssessmentLibrary.csproj|solutionrelative:studentassessmentlibrary\\services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Repositories\\Interface\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentLibrary\\Repositories\\Interface\\IStudentRepo.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Repositories\\Interface\\IStudentRepo.cs",
+              "RelativeToolTip": "StudentAssessmentLibrary\\Repositories\\Interface\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:33:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsRepo.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Repositories\\Implementation\\StudentsRepo.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentLibrary\\Repositories\\Implementation\\StudentsRepo.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Repositories\\Implementation\\StudentsRepo.cs",
+              "RelativeToolTip": "StudentAssessmentLibrary\\Repositories\\Implementation\\StudentsRepo.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwHcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:33:17.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Services\\Implementation\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentLibrary\\Services\\Implementation\\StudentService.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Services\\Implementation\\StudentService.cs",
+              "RelativeToolTip": "StudentAssessmentLibrary\\Services\\Implementation\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:33:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Services\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentLibrary\\Services\\Interface\\IStudentService.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Services\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "StudentAssessmentLibrary\\Services\\Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:34:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Entities\\Students.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentLibrary\\Entities\\Students.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentLibrary\\Entities\\Students.cs",
+              "RelativeToolTip": "StudentAssessmentLibrary\\Entities\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:32:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAssessmentAPI\\Program.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\StudentAssessment\\StudentAssessmentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAssessmentAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:29:58.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
