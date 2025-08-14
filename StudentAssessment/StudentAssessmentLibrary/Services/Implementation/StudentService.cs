@@ -23,16 +23,16 @@ namespace StudentAssessmentLibrary.Services.Implementation
             return Status;
         }
 
-        public bool Delete(int Id)
+        public bool Delete(int id)
         {
             bool Status = false;
-            Status = _StudentRepo.delete(Id);
+            Status = _StudentRepo.Delete(id);
             return Status;
         }
 
-        public List<Students> Get(int Id)
+        public List<Students> Get(int id)
         {
-            return _StudentRepo.Get(Id);
+            return _StudentRepo.Get(id);
         }
 
         public List<Students> GetAll()

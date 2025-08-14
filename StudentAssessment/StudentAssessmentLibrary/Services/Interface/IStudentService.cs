@@ -10,9 +10,9 @@ namespace StudentAssessmentLibrary.Services.Interface
     public interface IStudentService
     {
         bool Create(Students student);
-        bool Delete(int Id);
+        bool Delete(int id);
         bool Update(Students student);
         List<Students> GetAll();
-        List<Students> Get(int Id);
+        List<Students> Get(int id);
     }
 }

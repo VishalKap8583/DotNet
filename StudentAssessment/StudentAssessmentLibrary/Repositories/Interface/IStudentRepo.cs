@@ -11,9 +11,8 @@ namespace StudentAssessmentLibrary.Repositories.Interface
     {
         bool Create(Students student);
         bool Update(Students student);
-        bool delete(Students Id);
         List<Students> Getall();
-        List<Students> Get(int Id);
-        bool delete(int id);
+        List<Students> Get(int id);
+        bool Delete(int id);
     }
 }

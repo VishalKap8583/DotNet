@@ -24,18 +24,21 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                 {
                     {
                         con.Open();
-                        String query = "Insert Into Students" +
-                                       "(Name, Field)" +
+                        String query = "INSERT INTO students" +
+                                       "(Id, Name, Field, Email, Address)" +
                                        "Values" +
-                                       "(@name, @field)";
+                                       "(@id, @name, @field, @email, @address)";
                         MySqlCommand command = new MySqlCommand(query, con);
+                        command.Parameters.AddWithValue("@id", student.Id);
                         command.Parameters.AddWithValue("@name", student.Name);
                         command.Parameters.AddWithValue("@field", student.Field);
+                        command.Parameters.AddWithValue("@email", student.Email);
+                        command.Parameters.AddWithValue("@address", student.Address);
                         int result = command.ExecuteNonQuery();
                         status = true;
                     }
                 }
-                catch (Exception ex)
+                catch (MySqlException ex)
                 {
                     Console.WriteLine("Error: ", ex.Message);
                 }
@@ -46,7 +49,7 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                 return status;
             }
         }
-        public bool delete(Students Id)
+        public bool Delete(int id)
         {
             bool Status = false;
             using (MySqlConnection con = new MySqlConnection(ConnectionString))
@@ -54,37 +57,42 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                 try
                 {
                     con.Open();
-                    String query = "Delete From Students" +
-                                   "Where Id = @Id";
+                    String query = "DELETE FROM students " +
+                                   "WHERE Id = @id";
                     MySqlCommand command = new MySqlCommand(query, con);
-                    command.Parameters.AddWithValue("@Id", Id);
+                    command.Parameters.AddWithValue("@Id", id);
                     int result = command.ExecuteNonQuery();
-                    Status = true;
+                    if (result > 0)
+                    {
+                        Status = true;
+                        Console.WriteLine("Record is deleted...");
+
+                    }
                 }
-                catch (Exception ex)
+                catch (MySqlException ex)
                 {
-                    Console.WriteLine("Error: ", ex.Message);
+                    Console.WriteLine("Error: "+ ex.Message);
+                }
+
+                finally
+                {
+                    con.Close();
                 }
             }
             return Status;
         }
 
-        public bool delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Students> Get(int Id)
+        public List<Students> Get(int id)
         {
             using (MySqlConnection con = new MySqlConnection(ConnectionString))
                 try
                 {
                     con.Open();
-                    string query = "Select *" +
-                                   "From students" +
-                                   "Where Id=@Id";
+                    string query = "SELECT * " +
+                                   "FROM students " +
+                                   "WHERE Id=@id";
                     MySqlCommand command = new MySqlCommand(query, con);
-                    command.Parameters.AddWithValue("@Id", Id);
+                    command.Parameters.AddWithValue("@Id", id);
                     MySqlDataReader reader = command.ExecuteReader();
                     List<Students> students = new List<Students>();
                     while (reader.Read())
@@ -99,7 +107,7 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                     }
                     return students;
                 }
-                catch (Exception ex)
+                catch (MySqlException ex)
                 {
                     Console.WriteLine("error: ", ex.Message);
                 }
@@ -117,7 +125,7 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                 try
                 {
                     con.Open();
-                    string query = "Select *" + 
+                    string query = "Select * " + 
                                    "from students";
                     MySqlCommand command = new MySqlCommand(query, con);
                     MySqlDataReader reader = command.ExecuteReader();
@@ -134,7 +142,7 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                     }
                     return students;
                 }
-                catch (Exception ex)
+                catch (MySqlException ex)
                 {
                     Console.WriteLine("Error: ", ex.Message);                    
                 }
@@ -153,17 +161,19 @@ namespace StudentAssessmentLibrary.Repositories.Implementation
                 try
                 {
                     con.Open();
-                    string query = "Update Students" +
-                                  "Set Name=@name, Field=@field" +
-                                  "Where Id=@Id";
+                    string query = "UPDATE students " +
+                                   "SET Name=@name, Field=@field, Email=@email, Address=@address " +
+                                   "WHERE Id=@id";
                     MySqlCommand command = new MySqlCommand(query, con);
-                    command.Parameters.AddWithValue("@Id", student.Id);
+                    command.Parameters.AddWithValue("@id", student.Id);
                     command.Parameters.AddWithValue("@name", student.Name);
                     command.Parameters.AddWithValue("@field", student.Field);
+                    command.Parameters.AddWithValue("@email", student.Email);
+                    command.Parameters.AddWithValue("@address", student.Address);
                     int result = command.ExecuteNonQuery();
                     Status = true;
                 }
-                catch (Exception ex)
+                catch (MySqlException ex)
                 {
                     Console.WriteLine("Error: ", ex.Message);
                 }
