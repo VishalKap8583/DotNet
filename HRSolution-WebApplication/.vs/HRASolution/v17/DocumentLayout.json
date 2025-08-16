@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFL\\DotNet files\\HRSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\repositories\\implementation\\staffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\repositories\\implementation\\staffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\services\\implementation\\staffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\services\\implementation\\staffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|d:\\tfl\\dotnet files\\hrsolution\\hraconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|solutionrelative:hraconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\repositories\\interface\\istaffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\repositories\\interface\\istaffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\services\\interface\\istaffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\services\\interface\\istaffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\controller\\interface\\istaffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\controller\\interface\\istaffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|d:\\tfl\\dotnet files\\hrsolution\\hraconsoleapp\\hraconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|solutionrelative:hraconsoleapp\\hraconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|d:\\tfl\\dotnet files\\hrsolution\\hraconsoleapp\\hraconsoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A56ED132-45AF-4AEE-B360-57D557834D15}|HRAConsoleApp\\HRAConsoleApp.csproj|solutionrelative:hraconsoleapp\\hraconsoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\hrastaffing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\hrastaffing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\hrastaffing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\hrastaffing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|d:\\tfl\\dotnet files\\hrsolution\\hrastaffing\\controller\\implementation\\staffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81A69C-1130-41DD-B9A4-D667EE2A7D50}|HRAStaffing\\HRAStaffing.csproj|solutionrelative:hrastaffing\\controller\\implementation\\staffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffingService.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Services\\Implementation\\StaffingService.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Services\\Implementation\\StaffingService.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Services\\Implementation\\StaffingService.cs",
+              "RelativeToolTip": "HRAStaffing\\Services\\Implementation\\StaffingService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:44:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffingRepo.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Repositories\\Implementation\\StaffingRepo.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Repositories\\Implementation\\StaffingRepo.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Repositories\\Implementation\\StaffingRepo.cs",
+              "RelativeToolTip": "HRAStaffing\\Repositories\\Implementation\\StaffingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:42:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HRAConsoleApp\\Program.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\Program.cs",
+              "RelativeToolTip": "HRAConsoleApp\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:32:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HRAConsoleApp.csproj",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\HRAConsoleApp.csproj",
+              "RelativeDocumentMoniker": "HRAConsoleApp\\HRAConsoleApp.csproj",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\HRAConsoleApp.csproj",
+              "RelativeToolTip": "HRAConsoleApp\\HRAConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T04:03:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStaffingController.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Controller\\Interface\\IStaffingController.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Controller\\Interface\\IStaffingController.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Controller\\Interface\\IStaffingController.cs",
+              "RelativeToolTip": "HRAStaffing\\Controller\\Interface\\IStaffingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:35:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Entities\\Employee.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Entities\\Employee.cs",
+              "RelativeToolTip": "HRAStaffing\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:38:38.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStaffingRepo.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Repositories\\Interface\\IStaffingRepo.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Repositories\\Interface\\IStaffingRepo.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Repositories\\Interface\\IStaffingRepo.cs",
+              "RelativeToolTip": "HRAStaffing\\Repositories\\Interface\\IStaffingRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:43:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStaffingService.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Services\\Interface\\IStaffingService.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Services\\Interface\\IStaffingService.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Services\\Interface\\IStaffingService.cs",
+              "RelativeToolTip": "HRAStaffing\\Services\\Interface\\IStaffingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:44:22.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRAStaffing",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\HRAStaffing.csproj",
+              "RelativeDocumentMoniker": "HRAStaffing\\HRAStaffing.csproj",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\HRAStaffing.csproj",
+              "RelativeToolTip": "HRAStaffing\\HRAStaffing.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:21:49.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRAConsoleApp",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\HRAConsoleApp.csproj",
+              "RelativeDocumentMoniker": "HRAConsoleApp\\HRAConsoleApp.csproj",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAConsoleApp\\HRAConsoleApp.csproj",
+              "RelativeToolTip": "HRAConsoleApp\\HRAConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:22:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HRAStaffing.csproj",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\HRAStaffing.csproj",
+              "RelativeDocumentMoniker": "HRAStaffing\\HRAStaffing.csproj",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\HRAStaffing.csproj",
+              "RelativeToolTip": "HRAStaffing\\HRAStaffing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T08:33:07.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Staffingcontroller.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Controller\\Implementation\\Staffingcontroller.cs",
+              "RelativeDocumentMoniker": "HRAStaffing\\Controller\\Implementation\\Staffingcontroller.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRSolution\\HRAStaffing\\Controller\\Implementation\\Staffingcontroller.cs",
+              "RelativeToolTip": "HRAStaffing\\Controller\\Implementation\\Staffingcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:34:37.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
