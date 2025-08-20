@@ -14,6 +14,5 @@ namespace HRAStaffing.Repositories.Interface
         bool Delete(int employeeId);
         List<Employee> GetAll();
         Employee Get(int id);
-
     }
 }

@@ -35,11 +35,11 @@ using Org.BouncyCastle.Asn1;
             bool status1 = staffingService.Create(newEmployee);
             if (status1)
             {
-                Console.WriteLine("Employee created successfully.");
+                Console.WriteLine("Employee addded successfully.");
             }
             else
             {
-                Console.WriteLine("Failed to create employee.");
+                Console.WriteLine("Failed to add employee.");
             }
             break;
         case 2:

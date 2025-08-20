@@ -15,7 +15,6 @@ namespace HRAStaffing.Repositories.Implementation
         public bool Create(Employee employee)
         {
             bool status = false;
-             
             using (MySqlConnection connection = new MySqlConnection(ConnectionString))
             {
                 try
@@ -32,6 +31,10 @@ namespace HRAStaffing.Repositories.Implementation
                 catch (Exception ex)
                 {
                     Console.WriteLine("Error: " + ex.Message);
+                }
+                finally
+                {
+                    connection.Close();
                 }
             }
             return status;
@@ -56,9 +59,13 @@ namespace HRAStaffing.Repositories.Implementation
                 {
                     Console.WriteLine("Error: " + ex.Message);
                 }
+                finally
+                {
+                    connection.Close();
+                }
             }
             return status;
-        }  
+        }
 
         public Employee Get(int id)
         {
@@ -86,8 +93,12 @@ namespace HRAStaffing.Repositories.Implementation
                 {
                     Console.WriteLine("Error: " + ex.Message);
                 }
+                finally
+                {
+                    connection.Close();
+                }
             }
-            return null;
+            return new Employee();
         }
 
         public List<Employee> GetAll()
@@ -117,14 +128,18 @@ namespace HRAStaffing.Repositories.Implementation
                 {
                     Console.WriteLine("Error: " + ex.Message);
                 }
+                finally
+                {
+                    connection.Close();
+                }
             }
             return new List<Employee>();
-            
+
         }
 
         public bool Update(Employee employee)
         {
-          bool status = false;
+            bool status = false;
             using (MySqlConnection connection = new MySqlConnection(ConnectionString))
             {
                 try
@@ -141,6 +156,10 @@ namespace HRAStaffing.Repositories.Implementation
                 catch (Exception ex)
                 {
                     Console.WriteLine("Error: " + ex.Message);
+                }
+                finally
+                {
+                    connection.Close();
                 }
             }
             return status;
