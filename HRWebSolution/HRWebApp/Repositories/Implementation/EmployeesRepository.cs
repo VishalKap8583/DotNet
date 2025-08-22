@@ -6,7 +6,14 @@ namespace HRWebApp.Repositories.Implementation
 {
     public class EmployeesRepository : IEmployeesRepository
     {
-        String ConnectionString = "server=localhost;user=root;password=password;database=employeeslist";
+        //String ConnectionString = "server=localhost;user=root;password=password;database=employeeslist";
+        private readonly IConfiguration _connection;
+        private readonly string ConnectionString;
+        public EmployeesRepository(IConfiguration config)
+        {
+            _connection = config;
+            ConnectionString = _connection.GetConnectionString("DefaultConnection") ?? throw new Exception("Wrong ConnectionString");
+        }
 
         public async Task<bool> Create(Employee employee)
         {

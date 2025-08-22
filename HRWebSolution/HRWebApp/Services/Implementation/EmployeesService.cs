@@ -7,7 +7,7 @@ namespace HRWebApp.Services.Implementation
 {
     public class EmployeesService : IEmployeesService
     {
-        private readonly IEmployeesRepository repo = new EmployeesRepository();
+        private readonly IEmployeesRepository repo;
         public EmployeesService(IEmployeesRepository repo)
         {
             this.repo = repo;

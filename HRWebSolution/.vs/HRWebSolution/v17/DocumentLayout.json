@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\repositories\\implementation\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\services\\implementation\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +19,24 @@
       "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\services\\interface\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\repositories\\interface\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\repositories\\interface\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\hrwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\hrwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\hrwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\hrwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|d:\\tfl\\dotnet files\\hrwebsolution\\hrwebapp\\repositories\\interface\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD6D9D3-DEF2-477B-833F-9A883EAC7489}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\repositories\\interface\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,12 +53,21 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HRWebApp\\appsettings.json",
+              "ToolTip": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\appsettings.json",
+              "RelativeToolTip": "HRWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T05:02:40.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "HRWebApp\\Controllers\\EmployeesController.cs",
@@ -62,12 +75,11 @@
               "RelativeToolTip": "HRWebApp\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T04:03:41.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T04:03:41.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employees.cs",
               "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Entities\\Employees.cs",
               "RelativeDocumentMoniker": "HRWebApp\\Entities\\Employees.cs",
@@ -75,8 +87,7 @@
               "RelativeToolTip": "HRWebApp\\Entities\\Employees.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T06:52:03.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T06:52:03.769Z"
             },
             {
               "$type": "Document",
@@ -99,14 +110,14 @@
               "RelativeDocumentMoniker": "HRWebApp\\Services\\Implementation\\EmployeesService.cs",
               "ToolTip": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Services\\Implementation\\EmployeesService.cs",
               "RelativeToolTip": "HRWebApp\\Services\\Implementation\\EmployeesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T06:54:22.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IEmployeesRepository.cs",
               "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Repositories\\Interface\\IEmployeesRepository.cs",
               "RelativeDocumentMoniker": "HRWebApp\\Repositories\\Interface\\IEmployeesRepository.cs",
@@ -114,8 +125,7 @@
               "RelativeToolTip": "HRWebApp\\Repositories\\Interface\\IEmployeesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T06:53:26.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T06:53:26.861Z"
             },
             {
               "$type": "Document",
@@ -125,14 +135,14 @@
               "RelativeDocumentMoniker": "HRWebApp\\Repositories\\Implementation\\EmployeesRepository.cs",
               "ToolTip": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Repositories\\Implementation\\EmployeesRepository.cs",
               "RelativeToolTip": "HRWebApp\\Repositories\\Implementation\\EmployeesRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T06:52:52.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "HRWebApp.csproj",
               "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\HRWebApp.csproj",
               "RelativeDocumentMoniker": "HRWebApp\\HRWebApp.csproj",
@@ -140,20 +150,20 @@
               "RelativeToolTip": "HRWebApp\\HRWebApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T06:02:10.228Z"
+              "WhenOpened": "2025-08-19T06:02:10.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Program.cs",
               "RelativeDocumentMoniker": "HRWebApp\\Program.cs",
               "ToolTip": "D:\\TFL\\DotNet files\\HRWebSolution\\HRWebApp\\Program.cs",
               "RelativeToolTip": "HRWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T10:37:30.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T10:37:30.644Z"
             }
           ]
         }
