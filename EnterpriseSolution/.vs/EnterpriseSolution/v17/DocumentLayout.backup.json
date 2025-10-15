@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFL\\DotNet files\\EnterpriseSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4B56A2-5F2A-45E0-B5A9-2ECF44E0BB04}|EnterpriseWebAPI\\EnterpriseWebAPI.csproj|d:\\tfl\\dotnet files\\enterprisesolution\\enterprisewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED4B56A2-5F2A-45E0-B5A9-2ECF44E0BB04}|EnterpriseWebAPI\\EnterpriseWebAPI.csproj|solutionrelative:enterprisewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4B56A2-5F2A-45E0-B5A9-2ECF44E0BB04}|EnterpriseWebAPI\\EnterpriseWebAPI.csproj|d:\\tfl\\dotnet files\\enterprisesolution\\enterprisewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4B56A2-5F2A-45E0-B5A9-2ECF44E0BB04}|EnterpriseWebAPI\\EnterpriseWebAPI.csproj|solutionrelative:enterprisewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\EnterpriseSolution\\EnterpriseWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EnterpriseWebAPI\\appsettings.json",
+              "ToolTip": "D:\\TFL\\DotNet files\\EnterpriseSolution\\EnterpriseWebAPI\\appsettings.json",
+              "RelativeToolTip": "EnterpriseWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T06:24:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TFL\\DotNet files\\EnterpriseSolution\\EnterpriseWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseWebAPI\\Program.cs",
+              "ToolTip": "D:\\TFL\\DotNet files\\EnterpriseSolution\\EnterpriseWebAPI\\Program.cs",
+              "RelativeToolTip": "EnterpriseWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:24:29.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
